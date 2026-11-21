@@ -2,7 +2,7 @@
 
 # 정형 데이터 분석 · 머신러닝 프로젝트
 
-HYROX 대회 구간 기록 6만 건을 활용한 **탐색적 데이터 분석(EDA), 전처리, 군집, 회귀, 분류** 프로젝트
+EDA·전처리·군집·회귀·분류를 수행한 **머신러닝 데이터 분석 프로젝트**
 
 `Python` · `pandas` · `scikit-learn` · `matplotlib` · `Jupyter Notebook`
 
